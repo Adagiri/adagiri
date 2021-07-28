@@ -1,2 +1,1 @@
---strange developer
---Devops fan
+Stranger
